@@ -1,0 +1,10 @@
+^C:\PROJECTS\CPP\VULKANENGINE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Projects/cpp/VulkanEngine -BC:/Projects/cpp/VulkanEngine/build --check-stamp-file C:/Projects/cpp/VulkanEngine/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

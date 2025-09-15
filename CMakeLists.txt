@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(pme_engine)
+project(VulkanEngine)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
@@ -23,6 +23,7 @@ elseif(APPLE)
 endif()
 
 find_package(Vulkan REQUIRED)
+
 if(NOT Vulkan_FOUND)
     message(FATAL_ERROR "Vulkan SDK not found.")
 endif()
