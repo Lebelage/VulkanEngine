@@ -1,3 +1,3 @@
 C:/Projects/cpp/VulkanEngine/build/CMakeFiles/VulkanEngine.dir
-C:/Projects/cpp/VulkanEngine/build/CMakeFiles/ALL_BUILD.dir
-C:/Projects/cpp/VulkanEngine/build/CMakeFiles/ZERO_CHECK.dir
+C:/Projects/cpp/VulkanEngine/build/CMakeFiles/edit_cache.dir
+C:/Projects/cpp/VulkanEngine/build/CMakeFiles/rebuild_cache.dir

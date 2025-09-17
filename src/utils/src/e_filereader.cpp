@@ -2,7 +2,7 @@
 
 std::vector<char> pme::FileReader::ReadFile(const std::string &fileName)
 {
-    std::string filePath = ENGINE_PATH + fileName;
+    std::string filePath = fileName;
 
     std::ifstream file{filePath, std::ios::ate | std::ios::binary};
 

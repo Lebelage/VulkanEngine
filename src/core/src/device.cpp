@@ -24,6 +24,7 @@ void pme::PmeDevice::Initialize()
     }
     catch (std::runtime_error ex)
     {
+        pme::Logger::Log(LogLevel::Error, ex.what());
     }
 }
 

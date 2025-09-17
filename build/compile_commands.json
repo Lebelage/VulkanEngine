@@ -1,0 +1,98 @@
+[
+{
+  "directory": "C:/Projects/cpp/VulkanEngine/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -TP -IC:\\Projects\\cpp\\VulkanEngine\\src\\core\\include -IC:\\Projects\\cpp\\VulkanEngine\\src\\utils\\include -IC:\\Projects\\cpp\\VulkanEngine\\external\\glfw\\include -imsvcC:\\VulkanSDK\\1.4.321.1\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\VulkanEngine.dir\\src\\core\\src\\app.cpp.obj /FdCMakeFiles\\VulkanEngine.dir\\ -c -- C:\\Projects\\cpp\\VulkanEngine\\src\\core\\src\\app.cpp",
+  "file": "C:/Projects/cpp/VulkanEngine/src/core/src/app.cpp",
+  "output": "C:/Projects/cpp/VulkanEngine/build/CMakeFiles/VulkanEngine.dir/src/core/src/app.cpp.obj"
+},
+{
+  "directory": "C:/Projects/cpp/VulkanEngine/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -TP -IC:\\Projects\\cpp\\VulkanEngine\\src\\core\\include -IC:\\Projects\\cpp\\VulkanEngine\\src\\utils\\include -IC:\\Projects\\cpp\\VulkanEngine\\external\\glfw\\include -imsvcC:\\VulkanSDK\\1.4.321.1\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\VulkanEngine.dir\\src\\core\\src\\buffer.cpp.obj /FdCMakeFiles\\VulkanEngine.dir\\ -c -- C:\\Projects\\cpp\\VulkanEngine\\src\\core\\src\\buffer.cpp",
+  "file": "C:/Projects/cpp/VulkanEngine/src/core/src/buffer.cpp",
+  "output": "C:/Projects/cpp/VulkanEngine/build/CMakeFiles/VulkanEngine.dir/src/core/src/buffer.cpp.obj"
+},
+{
+  "directory": "C:/Projects/cpp/VulkanEngine/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -TP -IC:\\Projects\\cpp\\VulkanEngine\\src\\core\\include -IC:\\Projects\\cpp\\VulkanEngine\\src\\utils\\include -IC:\\Projects\\cpp\\VulkanEngine\\external\\glfw\\include -imsvcC:\\VulkanSDK\\1.4.321.1\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\VulkanEngine.dir\\src\\core\\src\\camera.cpp.obj /FdCMakeFiles\\VulkanEngine.dir\\ -c -- C:\\Projects\\cpp\\VulkanEngine\\src\\core\\src\\camera.cpp",
+  "file": "C:/Projects/cpp/VulkanEngine/src/core/src/camera.cpp",
+  "output": "C:/Projects/cpp/VulkanEngine/build/CMakeFiles/VulkanEngine.dir/src/core/src/camera.cpp.obj"
+},
+{
+  "directory": "C:/Projects/cpp/VulkanEngine/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -TP -IC:\\Projects\\cpp\\VulkanEngine\\src\\core\\include -IC:\\Projects\\cpp\\VulkanEngine\\src\\utils\\include -IC:\\Projects\\cpp\\VulkanEngine\\external\\glfw\\include -imsvcC:\\VulkanSDK\\1.4.321.1\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\VulkanEngine.dir\\src\\core\\src\\descriptors.cpp.obj /FdCMakeFiles\\VulkanEngine.dir\\ -c -- C:\\Projects\\cpp\\VulkanEngine\\src\\core\\src\\descriptors.cpp",
+  "file": "C:/Projects/cpp/VulkanEngine/src/core/src/descriptors.cpp",
+  "output": "C:/Projects/cpp/VulkanEngine/build/CMakeFiles/VulkanEngine.dir/src/core/src/descriptors.cpp.obj"
+},
+{
+  "directory": "C:/Projects/cpp/VulkanEngine/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -TP -IC:\\Projects\\cpp\\VulkanEngine\\src\\core\\include -IC:\\Projects\\cpp\\VulkanEngine\\src\\utils\\include -IC:\\Projects\\cpp\\VulkanEngine\\external\\glfw\\include -imsvcC:\\VulkanSDK\\1.4.321.1\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\VulkanEngine.dir\\src\\core\\src\\device.cpp.obj /FdCMakeFiles\\VulkanEngine.dir\\ -c -- C:\\Projects\\cpp\\VulkanEngine\\src\\core\\src\\device.cpp",
+  "file": "C:/Projects/cpp/VulkanEngine/src/core/src/device.cpp",
+  "output": "C:/Projects/cpp/VulkanEngine/build/CMakeFiles/VulkanEngine.dir/src/core/src/device.cpp.obj"
+},
+{
+  "directory": "C:/Projects/cpp/VulkanEngine/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -TP -IC:\\Projects\\cpp\\VulkanEngine\\src\\core\\include -IC:\\Projects\\cpp\\VulkanEngine\\src\\utils\\include -IC:\\Projects\\cpp\\VulkanEngine\\external\\glfw\\include -imsvcC:\\VulkanSDK\\1.4.321.1\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\VulkanEngine.dir\\src\\core\\src\\input\\keyboard_input.cpp.obj /FdCMakeFiles\\VulkanEngine.dir\\ -c -- C:\\Projects\\cpp\\VulkanEngine\\src\\core\\src\\input\\keyboard_input.cpp",
+  "file": "C:/Projects/cpp/VulkanEngine/src/core/src/input/keyboard_input.cpp",
+  "output": "C:/Projects/cpp/VulkanEngine/build/CMakeFiles/VulkanEngine.dir/src/core/src/input/keyboard_input.cpp.obj"
+},
+{
+  "directory": "C:/Projects/cpp/VulkanEngine/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -TP -IC:\\Projects\\cpp\\VulkanEngine\\src\\core\\include -IC:\\Projects\\cpp\\VulkanEngine\\src\\utils\\include -IC:\\Projects\\cpp\\VulkanEngine\\external\\glfw\\include -imsvcC:\\VulkanSDK\\1.4.321.1\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\VulkanEngine.dir\\src\\core\\src\\model.cpp.obj /FdCMakeFiles\\VulkanEngine.dir\\ -c -- C:\\Projects\\cpp\\VulkanEngine\\src\\core\\src\\model.cpp",
+  "file": "C:/Projects/cpp/VulkanEngine/src/core/src/model.cpp",
+  "output": "C:/Projects/cpp/VulkanEngine/build/CMakeFiles/VulkanEngine.dir/src/core/src/model.cpp.obj"
+},
+{
+  "directory": "C:/Projects/cpp/VulkanEngine/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -TP -IC:\\Projects\\cpp\\VulkanEngine\\src\\core\\include -IC:\\Projects\\cpp\\VulkanEngine\\src\\utils\\include -IC:\\Projects\\cpp\\VulkanEngine\\external\\glfw\\include -imsvcC:\\VulkanSDK\\1.4.321.1\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\VulkanEngine.dir\\src\\core\\src\\objects.cpp.obj /FdCMakeFiles\\VulkanEngine.dir\\ -c -- C:\\Projects\\cpp\\VulkanEngine\\src\\core\\src\\objects.cpp",
+  "file": "C:/Projects/cpp/VulkanEngine/src/core/src/objects.cpp",
+  "output": "C:/Projects/cpp/VulkanEngine/build/CMakeFiles/VulkanEngine.dir/src/core/src/objects.cpp.obj"
+},
+{
+  "directory": "C:/Projects/cpp/VulkanEngine/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -TP -IC:\\Projects\\cpp\\VulkanEngine\\src\\core\\include -IC:\\Projects\\cpp\\VulkanEngine\\src\\utils\\include -IC:\\Projects\\cpp\\VulkanEngine\\external\\glfw\\include -imsvcC:\\VulkanSDK\\1.4.321.1\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\VulkanEngine.dir\\src\\core\\src\\pipeline.cpp.obj /FdCMakeFiles\\VulkanEngine.dir\\ -c -- C:\\Projects\\cpp\\VulkanEngine\\src\\core\\src\\pipeline.cpp",
+  "file": "C:/Projects/cpp/VulkanEngine/src/core/src/pipeline.cpp",
+  "output": "C:/Projects/cpp/VulkanEngine/build/CMakeFiles/VulkanEngine.dir/src/core/src/pipeline.cpp.obj"
+},
+{
+  "directory": "C:/Projects/cpp/VulkanEngine/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -TP -IC:\\Projects\\cpp\\VulkanEngine\\src\\core\\include -IC:\\Projects\\cpp\\VulkanEngine\\src\\utils\\include -IC:\\Projects\\cpp\\VulkanEngine\\external\\glfw\\include -imsvcC:\\VulkanSDK\\1.4.321.1\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\VulkanEngine.dir\\src\\core\\src\\renderer.cpp.obj /FdCMakeFiles\\VulkanEngine.dir\\ -c -- C:\\Projects\\cpp\\VulkanEngine\\src\\core\\src\\renderer.cpp",
+  "file": "C:/Projects/cpp/VulkanEngine/src/core/src/renderer.cpp",
+  "output": "C:/Projects/cpp/VulkanEngine/build/CMakeFiles/VulkanEngine.dir/src/core/src/renderer.cpp.obj"
+},
+{
+  "directory": "C:/Projects/cpp/VulkanEngine/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -TP -IC:\\Projects\\cpp\\VulkanEngine\\src\\core\\include -IC:\\Projects\\cpp\\VulkanEngine\\src\\utils\\include -IC:\\Projects\\cpp\\VulkanEngine\\external\\glfw\\include -imsvcC:\\VulkanSDK\\1.4.321.1\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\VulkanEngine.dir\\src\\core\\src\\rendersystems\\baserendersystem.cpp.obj /FdCMakeFiles\\VulkanEngine.dir\\ -c -- C:\\Projects\\cpp\\VulkanEngine\\src\\core\\src\\rendersystems\\baserendersystem.cpp",
+  "file": "C:/Projects/cpp/VulkanEngine/src/core/src/rendersystems/baserendersystem.cpp",
+  "output": "C:/Projects/cpp/VulkanEngine/build/CMakeFiles/VulkanEngine.dir/src/core/src/rendersystems/baserendersystem.cpp.obj"
+},
+{
+  "directory": "C:/Projects/cpp/VulkanEngine/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -TP -IC:\\Projects\\cpp\\VulkanEngine\\src\\core\\include -IC:\\Projects\\cpp\\VulkanEngine\\src\\utils\\include -IC:\\Projects\\cpp\\VulkanEngine\\external\\glfw\\include -imsvcC:\\VulkanSDK\\1.4.321.1\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\VulkanEngine.dir\\src\\core\\src\\swapchain.cpp.obj /FdCMakeFiles\\VulkanEngine.dir\\ -c -- C:\\Projects\\cpp\\VulkanEngine\\src\\core\\src\\swapchain.cpp",
+  "file": "C:/Projects/cpp/VulkanEngine/src/core/src/swapchain.cpp",
+  "output": "C:/Projects/cpp/VulkanEngine/build/CMakeFiles/VulkanEngine.dir/src/core/src/swapchain.cpp.obj"
+},
+{
+  "directory": "C:/Projects/cpp/VulkanEngine/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -TP -IC:\\Projects\\cpp\\VulkanEngine\\src\\core\\include -IC:\\Projects\\cpp\\VulkanEngine\\src\\utils\\include -IC:\\Projects\\cpp\\VulkanEngine\\external\\glfw\\include -imsvcC:\\VulkanSDK\\1.4.321.1\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\VulkanEngine.dir\\src\\core\\src\\window.cpp.obj /FdCMakeFiles\\VulkanEngine.dir\\ -c -- C:\\Projects\\cpp\\VulkanEngine\\src\\core\\src\\window.cpp",
+  "file": "C:/Projects/cpp/VulkanEngine/src/core/src/window.cpp",
+  "output": "C:/Projects/cpp/VulkanEngine/build/CMakeFiles/VulkanEngine.dir/src/core/src/window.cpp.obj"
+},
+{
+  "directory": "C:/Projects/cpp/VulkanEngine/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -TP -IC:\\Projects\\cpp\\VulkanEngine\\src\\core\\include -IC:\\Projects\\cpp\\VulkanEngine\\src\\utils\\include -IC:\\Projects\\cpp\\VulkanEngine\\external\\glfw\\include -imsvcC:\\VulkanSDK\\1.4.321.1\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\VulkanEngine.dir\\src\\main.cpp.obj /FdCMakeFiles\\VulkanEngine.dir\\ -c -- C:\\Projects\\cpp\\VulkanEngine\\src\\main.cpp",
+  "file": "C:/Projects/cpp/VulkanEngine/src/main.cpp",
+  "output": "C:/Projects/cpp/VulkanEngine/build/CMakeFiles/VulkanEngine.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Projects/cpp/VulkanEngine/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -TP -IC:\\Projects\\cpp\\VulkanEngine\\src\\core\\include -IC:\\Projects\\cpp\\VulkanEngine\\src\\utils\\include -IC:\\Projects\\cpp\\VulkanEngine\\external\\glfw\\include -imsvcC:\\VulkanSDK\\1.4.321.1\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\VulkanEngine.dir\\src\\utils\\src\\e_filereader.cpp.obj /FdCMakeFiles\\VulkanEngine.dir\\ -c -- C:\\Projects\\cpp\\VulkanEngine\\src\\utils\\src\\e_filereader.cpp",
+  "file": "C:/Projects/cpp/VulkanEngine/src/utils/src/e_filereader.cpp",
+  "output": "C:/Projects/cpp/VulkanEngine/build/CMakeFiles/VulkanEngine.dir/src/utils/src/e_filereader.cpp.obj"
+},
+{
+  "directory": "C:/Projects/cpp/VulkanEngine/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -TP -IC:\\Projects\\cpp\\VulkanEngine\\src\\core\\include -IC:\\Projects\\cpp\\VulkanEngine\\src\\utils\\include -IC:\\Projects\\cpp\\VulkanEngine\\external\\glfw\\include -imsvcC:\\VulkanSDK\\1.4.321.1\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\VulkanEngine.dir\\src\\utils\\src\\e_logger.cpp.obj /FdCMakeFiles\\VulkanEngine.dir\\ -c -- C:\\Projects\\cpp\\VulkanEngine\\src\\utils\\src\\e_logger.cpp",
+  "file": "C:/Projects/cpp/VulkanEngine/src/utils/src/e_logger.cpp",
+  "output": "C:/Projects/cpp/VulkanEngine/build/CMakeFiles/VulkanEngine.dir/src/utils/src/e_logger.cpp.obj"
+}
+]

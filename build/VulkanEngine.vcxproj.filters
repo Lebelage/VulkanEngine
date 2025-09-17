@@ -4,7 +4,22 @@
     <ClCompile Include="C:\Projects\cpp\VulkanEngine\src\core\src\app.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Projects\cpp\VulkanEngine\src\core\src\buffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\cpp\VulkanEngine\src\core\src\descriptors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="C:\Projects\cpp\VulkanEngine\src\core\src\device.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\cpp\VulkanEngine\src\core\src\model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\cpp\VulkanEngine\src\core\src\pipeline.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\cpp\VulkanEngine\src\core\src\swapchain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="C:\Projects\cpp\VulkanEngine\src\core\src\window.cpp">
