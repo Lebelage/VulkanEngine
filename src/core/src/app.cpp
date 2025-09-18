@@ -75,7 +75,7 @@ void pme::App::Run()
         camera.SetViewXYZ(viewerObject.transform.translation, viewerObject.transform.rotation);
         float aspect = renderer.GetAspectRatio();
 
-        camera.SetPerspectiveProjection(glm::radians(50.f), aspect, 0.1f, 10.f);
+        camera.SetPerspectiveProjection(glm::radians(100.f), aspect, 0.1f, 10.f);
 
         if (auto commandBuffer = renderer.BeginFrame())
         {

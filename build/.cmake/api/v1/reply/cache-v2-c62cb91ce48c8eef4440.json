@@ -156,6 +156,25 @@
 				{
 					"name" : "HELPSTRING",
 					"value" : "No help, variable specified on the command line."
+<<<<<<<< HEAD:build/.cmake/api/v1/reply/cache-v2-c62cb91ce48c8eef4440.json
+========
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/Program Files/LLVM/bin/clang-cl.exe"
+		},
+		{
+			"name" : "CMAKE_CXX_COMPILER_AR",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "LLVM archiver"
+>>>>>>>> 546d6b3 (зз):build/.cmake/api/v1/reply/cache-v2-cd982404028b3ede27d0.json
 				}
 			],
 			"type" : "FILEPATH",
@@ -252,6 +271,25 @@
 				{
 					"name" : "HELPSTRING",
 					"value" : "No help, variable specified on the command line."
+<<<<<<<< HEAD:build/.cmake/api/v1/reply/cache-v2-c62cb91ce48c8eef4440.json
+========
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/Program Files/LLVM/bin/clang-cl.exe"
+		},
+		{
+			"name" : "CMAKE_C_COMPILER_AR",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "LLVM archiver"
+>>>>>>>> 546d6b3 (зз):build/.cmake/api/v1/reply/cache-v2-cd982404028b3ede27d0.json
 				}
 			],
 			"type" : "FILEPATH",

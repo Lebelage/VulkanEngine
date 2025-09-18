@@ -35,7 +35,11 @@
 			}
 		},
 		{
+<<<<<<<< HEAD:build/.cmake/api/v1/reply/index-2025-09-18T13-10-24-0797.json
 			"jsonFile" : "cache-v2-c62cb91ce48c8eef4440.json",
+========
+			"jsonFile" : "cache-v2-cd982404028b3ede27d0.json",
+>>>>>>>> 546d6b3 (зз):build/.cmake/api/v1/reply/index-2025-09-18T10-11-16-0892.json
 			"kind" : "cache",
 			"version" : 
 			{
@@ -44,7 +48,11 @@
 			}
 		},
 		{
+<<<<<<<< HEAD:build/.cmake/api/v1/reply/index-2025-09-18T13-10-24-0797.json
 			"jsonFile" : "cmakeFiles-v1-0ca599e51b71343aadbe.json",
+========
+			"jsonFile" : "cmakeFiles-v1-17b6f35e0e54598c5203.json",
+>>>>>>>> 546d6b3 (зз):build/.cmake/api/v1/reply/index-2025-09-18T10-11-16-0892.json
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
@@ -90,7 +98,11 @@
 				"responses" : 
 				[
 					{
+<<<<<<<< HEAD:build/.cmake/api/v1/reply/index-2025-09-18T13-10-24-0797.json
 						"jsonFile" : "cache-v2-c62cb91ce48c8eef4440.json",
+========
+						"jsonFile" : "cache-v2-cd982404028b3ede27d0.json",
+>>>>>>>> 546d6b3 (зз):build/.cmake/api/v1/reply/index-2025-09-18T10-11-16-0892.json
 						"kind" : "cache",
 						"version" : 
 						{
@@ -117,7 +129,11 @@
 						}
 					},
 					{
+<<<<<<<< HEAD:build/.cmake/api/v1/reply/index-2025-09-18T13-10-24-0797.json
 						"jsonFile" : "cmakeFiles-v1-0ca599e51b71343aadbe.json",
+========
+						"jsonFile" : "cmakeFiles-v1-17b6f35e0e54598c5203.json",
+>>>>>>>> 546d6b3 (зз):build/.cmake/api/v1/reply/index-2025-09-18T10-11-16-0892.json
 						"kind" : "cmakeFiles",
 						"version" : 
 						{
