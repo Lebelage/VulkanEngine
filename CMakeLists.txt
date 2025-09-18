@@ -15,11 +15,21 @@ if(WIN32)
     )
 
 elseif(APPLE)
-    find_library(GLFW_LIBRARY 
-        NAMES glfw3 glfw
-        PATHS "${GLFW_DIR}/lib/macos"
-        REQUIRED
-    )
+    find_package(glfw3 REQUIRED)
+    if(glfw3_FOUND)
+        message("GLFW found via find_package")
+        set(GLFW_LIBRARY glfw)
+        set(GLFW_INCLUDE_DIR ${glfw3_INCLUDE_DIRS})
+    else()
+        # Fallback: ручной поиск
+        set(GLFW_DIR "${CMAKE_SOURCE_DIR}/external/glfw")
+        find_library(GLFW_LIBRARY 
+            NAMES glfw3 glfw
+            PATHS "${GLFW_DIR}/lib/macos"
+            REQUIRED
+        )
+        set(GLFW_INCLUDE_DIR "${GLFW_DIR}/include")
+    endif()
 endif()
 
 find_package(Vulkan REQUIRED)
@@ -49,3 +59,16 @@ target_link_libraries(${PROJECT_NAME} PRIVATE
     ${GLFW_LIBRARY}
     Vulkan::Vulkan
 )
+
+if(APPLE)
+    # Добавляем необходимые фреймворки для GLFW
+    target_link_libraries(${PROJECT_NAME} PRIVATE
+        "-framework Cocoa"
+        "-framework IOKit"
+        "-framework CoreFoundation"
+        "-framework CoreVideo"
+    )
+    
+    # Включаем автоматическое управление rpath
+    set(CMAKE_MACOSX_RPATH ON)
+endif()

@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"C:/Projects/cpp/VulkanEngine/build/cmake_install.cmake"
+		"/Users/frame/Projects/CPP_projects/VulkanEngine-main/build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }
